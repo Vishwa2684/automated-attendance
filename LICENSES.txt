@@ -1,0 +1,2 @@
+https://github.com/akanametov/yolo-face?tab=GPL-3.0-1-ov-file (yolov11 face)
+
